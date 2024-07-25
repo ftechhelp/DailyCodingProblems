@@ -21,3 +21,4 @@ function produceNewArray(currentArray)
 }
 
 console.log(produceNewArray([1, 2, 3, 4, 5]));
+console.log(produceNewArray([3, 2, 1]));
